@@ -47,6 +47,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mejiarocha/mejiarocha/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h4 align="left">I speak English and Spanish!</h4>
 
 Here are some ideas to get you started:
