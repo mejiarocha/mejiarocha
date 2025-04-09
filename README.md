@@ -64,11 +64,11 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working at  <a href="https://www.bucks-finance.com/">Bucks-finance</a>
-- 🌱 I’m currently learning different cloud technologies like Azure and AWS
+- 🔭 I’m currently working at  <a href="https://www.quorumsoftware.com/">Quorum Software</a>
 
 
 <!---
+- 🌱 I’m currently learning different cloud technologies and like Azure and AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
