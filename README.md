@@ -61,8 +61,6 @@
   <li>🇪🇸 - Spanish</li>
   <li>🇺🇸 - English</li>
 </ul>  
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working at  <a href="https://www.quorumsoftware.com/">Quorum Software</a>
 
