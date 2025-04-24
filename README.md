@@ -35,6 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://github.com/user-attachments/assets/ca855bef-375c-4802-8e21-ffac52118ec4" height="30" alt="elastic logo"  />
+
+
 </div>
 
 ###
